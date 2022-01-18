@@ -11,7 +11,7 @@ The Diverse Stardew Valley project was started by notsnufffie, and is now being 
 A complete visual readme, configuration guide, compatibilty information, and more can be found on our [website](https://diversestardewvalley.weebly.com/)!
 
 ### Installation:
-This mod requires [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)﻿! Simply unpack and place the “[CP] Diverse Stardew Valley - Abigail, Caroline & Pierre” folder into your Mods folder. 
+This mod requires [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)﻿! Simply unpack and place the “[CP] DSV - Willy, Clint & Linus” folder into your Mods folder. 
 
 You can choose which version of each character you would like to use in the config, as well as disable any characters that you may want to use another mod for.
 
